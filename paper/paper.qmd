@@ -2,7 +2,7 @@
 title: "Ethnic origins and number of Holocaust victims killed at Auschwitz concentration camp"
 subtitle: ""
 author: 
-  - Dongli SUn
+  - Dongli Sun
 thanks: "Code and data are available at: https://github.com/DongliSun/camp.git."
 date: today
 date-format: long
@@ -10,4 +10,5 @@ abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
 format: pdf
 number-sections: true
 ---
+
 
